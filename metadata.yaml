@@ -1,0 +1,37 @@
+_repo: The-Theory-of-Heat-Radiation_40030
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Masius, Morton
+    birthdate: 1883
+    gutenberg_agent_id: '40374'
+    url: http://www.gutenberg.org/2009/agents/40374
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Planck, Max
+    alias: Planck, Max Karl Ernst Ludwig
+    birthdate: 1858
+    deathdate: 1947
+    gutenberg_agent_id: '35343'
+    url: http://www.gutenberg.org/2009/agents/35343
+description: ''
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2012-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40030'
+  lccn: '14008862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heat -- Radiation and absorption'
+- !lcsh 'Electric waves'
+- !lcc 'QC'
+- !lcsh 'Gases'
+title: The Theory of Heat Radiation
+url: http://www.gutenberg.org/ebooks/40030
